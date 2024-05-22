@@ -1,2 +1,7 @@
 spring:
   security:
+    oauth2:
+      client:
+        registration:
+          kakko:
+            client-id: 45b97a2700a38ac50ae9481276859589
