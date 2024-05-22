@@ -1,6 +1,6 @@
 package com.koreait.sssandupload;
 
-import com.koreait.sssandupload.app.home.contoller.HomeController;
+import com.koreait.sssandupload.app.home.controller.HomeController;
 import com.koreait.sssandupload.app.member.service.MemberService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
